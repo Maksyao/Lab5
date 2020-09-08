@@ -1,0 +1,67 @@
+[
+    {
+        "employeesCount": 1,
+        "name": "BONCH",
+        "coordinates": {
+            "x": 1,
+            "y": 2
+        },
+        "officialAddress": null,
+        "annualTurnover": 0.1,
+        "id": 179,
+        "creationDate": "2020-02-27T23:42:45.667478600",
+        "type": null
+    },
+    {
+        "employeesCount": 5,
+        "name": "ITMO",
+        "coordinates": {
+            "x": 1,
+            "y": 2
+        },
+        "officialAddress": null,
+        "annualTurnover": 2,
+        "id": 261,
+        "creationDate": "2020-02-27T23:42:45.667478600",
+        "type": null
+    },
+    {
+        "employeesCount": 3,
+        "name": "POLIKEK",
+        "coordinates": {
+            "x": 1,
+            "y": 2
+        },
+        "officialAddress": null,
+        "annualTurnover": 1,
+        "id": 297,
+        "creationDate": "2020-02-27T23:42:45.667478600",
+        "type": null
+    },
+    {
+        "employeesCount": 290,
+        "name": "PetrSU",
+        "coordinates": {
+            "x": 1,
+            "y": 4
+        },
+        "officialAddress": "Republic of Karelia, Petrozavodsk, Lenina Street, h.n. 43",
+        "annualTurnover": 1.99924388E10,
+        "id": -2147476793,
+        "creationDate": "2020-02-27T23:52:18.193227800",
+        "type": "PUBLIC"
+    },
+    {
+        "employeesCount": 2,
+        "name": "SPBGU",
+        "coordinates": {
+            "x": 1,
+            "y": 2
+        },
+        "officialAddress": null,
+        "annualTurnover": 0.5,
+        "id": 206,
+        "creationDate": "2020-02-27T23:42:45.667478600",
+        "type": null
+    }
+]
